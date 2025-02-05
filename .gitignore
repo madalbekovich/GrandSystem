@@ -1,0 +1,5 @@
+.env
+**__init__.py
+.idea
+../src/staticfiles
+../src/media
